@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+  }
+  
+  .text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-right: 20px; /* This adds a gap between the text and the image */
+  }
